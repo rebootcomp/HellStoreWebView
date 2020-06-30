@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "787508497044",
+    "firebase_url": "https://sportnewscode.firebaseio.com",
+    "project_id": "sportnewscode",
+    "storage_bucket": "sportnewscode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787508497044:android:10b9c29adbdc3970",
+        "android_client_info": {
+          "package_name": "com.app.lionnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787508497044-3e9cpkm77mhe43i506jqg220e6obkn4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.lionnews",
+            "certificate_hash": "8eb53435615d8624938225e90d7b0b5dc26e8221"
+          }
+        },
+        {
+          "client_id": "787508497044-gljmghq40bf0llff1si82lhpsct3hldt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJJsHnuqUAPrqzUxSS9gYh0FtSACBA0LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787508497044-gljmghq40bf0llff1si82lhpsct3hldt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
